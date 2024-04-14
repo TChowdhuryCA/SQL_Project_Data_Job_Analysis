@@ -65,7 +65,7 @@ Based on the results of the query, the following observations were made:
 
 The bar chart shows the salary comparison among the top 10 postings.
 
-![salary_comparison](SQL_Project_Data_Job_Analysis/assets/q1_viz.jpg)
+![salary_comparison](assets/q1_viz.jpg)
 
 ### **What are the skills required for these top-paying roles?**
 
@@ -99,7 +99,7 @@ ORDER BY salary_year_avg DESC
 ```
 Based on the results of the query, I have generated a graph showing the frequency of skill requirements for the top jobs.
 
-![top_skills](SQL_Project_Data_Job_Analysis/assets/q2_viz.jpg)
+![top_skills](assets/q2_viz.jpg)
 
 We can observe that:
 - SQL is a common requirement across all the top-paying data analyst jobs, indicating its importance in data analysis roles.
@@ -165,7 +165,7 @@ LIMIT 25;
 ```
 
 The results:
-![highest_pay_skills](SQL_Project_Data_Job_Analysis/assets/avg_salary_vs_skills.jpg)
+![highest_pay_skills](assets/avg_salary_vs_skills.jpg)
 
 
 1. SVN (Subversion): Data analysts with expertise in SVN earn an average salary of $400,0001.
