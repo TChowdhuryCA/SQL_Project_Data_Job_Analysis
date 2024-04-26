@@ -2,7 +2,7 @@
 
 This project looks into the job market for data analysts using 2023 data and explores the types of jobs available, the salary range, the skill requirements for the jobs and the employers posting the jobs.
 
-The source files for the project could be found here: [sql_project](https://www.lukebarousse.com/sql).
+The source files for the project could be found here: [sql_project](https://drive.google.com/drive/folders/1egWenKd_r3LRpdCf4SsqTeFZ1ZdY3DNx?usp=drive_link).
 
 # Background
 
